@@ -2,7 +2,7 @@
 Personal portfolio to showcase my work
 
 ## Project Title
-Portfolio Version 1.0
+Portfolio Version 2.0
 
 ## Project Description
 Honed front end developer skills by creating a portfolio to showcase my work.
