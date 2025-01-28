@@ -1,22 +1,9 @@
-# Portfolio_version_1.0
+# Portfolio
 Personal portfolio to showcase my work
-
-## Project Title
-Portfolio Version 2.0
-
-## Project Description
-Honed front end developer skills by creating a portfolio to showcase my work.
 
 ## Live Site:
 
-Follow this link: https://tparlmer.github.io/Portfolio_version_1.0/
-
-## Technology Used:
-
-HTML and CSS
-
-## Installation:
-Clone the repo in github
+Follow this link: https://tparlmer.github.io/portfolio/
 
 Screenshot:
 [site_link](./assets/Thomas Parlmer.pdf)
